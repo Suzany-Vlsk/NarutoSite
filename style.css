@@ -128,7 +128,7 @@ li{
 }
 
 .centro{
-    text-align:center;
+    text-align:
     margin-top:40px;
 }
 
@@ -156,8 +156,6 @@ li{
 
 form{
     display:flex;
-    justify-content:center;
-    align-items:center;
     flex-wrap:wrap;
     gap:15px;
     margin-top:30px;
